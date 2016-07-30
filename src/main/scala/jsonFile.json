@@ -1,0 +1,34 @@
+{
+  "id": 2,
+  "items": [
+    {
+      "sku": 1,
+      "unit_price": 2,
+      "quantity": 3
+    },
+    {
+      "sku": 1,
+      "unit_price": 2,
+      "quantity": 3
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "external_id": "51",
+      "amount": 205,
+      "types": "teste",
+      "authorization_code": "asdsad124",
+      "card_brand": "VISA",
+      "card_bin": "5468",
+      "card_last": "5111"
+    }
+  ],
+  "status": "PAGO",
+  "created_at": 1469811732555,
+  "updated_at": 1469811732555,
+  "notes": "Teste",
+  "number": "Teste",
+  "price": 80,
+  "reference": "Teste"
+}
